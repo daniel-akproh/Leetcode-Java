@@ -20,12 +20,6 @@ _Leetcode-Java: A Repository for Leetcode solutions in Java_
 
 **Leetcode-Java** is the repository containing all the Leetcode questions I worked on and solved in Java.
 
-## 📖 Table of contents
-
-- [📖 Table of contents](#-table-of-contents)
-- [🌳 Features](#-features)
-- [🙇 Acknowledgements](#-acknowledgements)
-- [🗺️ Roadmap](#️-roadmap)
 
 ## 🌳 Visited Questions
 
